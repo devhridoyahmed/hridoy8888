@@ -29,9 +29,7 @@ Skills: JS / HTML / CSS / Bootstrap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy8888)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hridoy8888&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hridoy8888)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hridoy8888&show_icons=true)   
 
 ![GitHub metrics](https://metrics.lecoq.io/hridoy8888)  
 
