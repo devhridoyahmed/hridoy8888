@@ -1,7 +1,7 @@
 ![I am Web Designer and Front-End Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/257778570_2005734382925589_9182504598759797178_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeE59K9Tl-fJcfp9HGdPCVQrIIFOQRrZDNQggU5BGtkM1Oi6HWLfHB8bq8PI6cfME81M_ffpnEB7_s_cCSBJLl3k&_nc_ohc=aKtem0ectqoAX_f961-&_nc_ht=scontent.fdac5-2.fna&oh=00_AfBPlH_PP1VY1HZQeRx_cxSSmHnUVjehjK8ML9fg5pp_RA&oe=640169B1)
 
-## Hi there 👋, I am **Hridoy Ahmed** from Bangladesh.
-#### I am Web Designer and Front-End Developer
+# Hi there 👋, I am **Hridoy Ahmed** from Bangladesh.
+## I am Web Designer and Front-End Developer
 
 I am a Web Designer & Front-end Developer with about 2 years experience with high-end training on Front-end Development from BITM, Bangladesh (BASIS Institute of Technology and Management).
 
